@@ -1,0 +1,28 @@
+### Java & Maven ###
+target/
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+
+### IntelliJ IDEA (Cực kỳ quan trọng cho nhóm) ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### VS Code & Eclipse ###
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+
+### Operating System ###
+.DS_Store
+
+*.db-journal
